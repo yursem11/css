@@ -1,0 +1,23 @@
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+header {
+    height: 150px;
+}
+aside#left {
+    width: 15%;
+    float: left;
+    height: 500px;
+}
+main {
+    width: 70%;
+    float: left;
+    height: 500px;
+}
+aside#right {
+    height: 500px;
+}
+footer {
+    height: 100px;
+}
